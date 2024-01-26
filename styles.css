@@ -1,0 +1,41 @@
+/*Universals*/
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+body {
+    background-color: antiquewhite;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border: 2px solid burlywood;
+    width: 900px;
+    margin: 0 auto;
+}
+
+table td {
+    border: 1px solid burlywood;
+}
+
+.theads {
+    background-color: brown;
+    color: aliceblue;
+}
+
+.htags{
+    margin-bottom: 30px;
+}
+
+caption {
+    font-size: 28px;
+    padding-bottom: 10px;
+    color: firebrick;
+}
